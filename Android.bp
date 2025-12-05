@@ -1627,6 +1627,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libpiex_shim",
+                "libdng_sdk_shim",
                 "libcutils",
                 "libutils",
                 "libcamera_metadata",
